@@ -1,0 +1,15 @@
+public class dataTypes {
+
+	public static void main (String args[]) {
+		
+		int integer = 5;               // Integer (whole number)
+		float float1 = 5.99f;    // Floating point number
+		char character = 'D';         // Character
+		boolean bool = true;       // Boolean
+		String string = "Hello";     // String
+		
+		System.out.println(integer + " " + float1 + character + string);
+		
+	}
+	
+}
